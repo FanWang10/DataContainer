@@ -1,0 +1,8 @@
+Compile The File
+$ make
+Run 
+$./a.out
+
+Update Input File Name In Codes:
+line 95 - Update File Name To Generate New random_value.txt for task1
+line 251 - Update File Name To Generate New random_value.txt for task2
